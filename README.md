@@ -1,2 +1,9 @@
-# Cake-Shop-Website
-Our website showcases a delightful collection of custom cakes for birthdays, weddings, and special occasions. Explore our menu, check out our gallery, and get in touch to place your order today!  🍰 Freshly Baked | 🎂 Custom Designs | 🍪 Sweet Memories  Let me know if you need a more detailed version! 😊  
+# Covid-19-Aanlysis
+COVID-19 Data Analysis and Visualization
+This project focuses on analyzing and visualizing COVID-19 data using Python. It leverages popular libraries such as Pandas, NumPy, and Matplotlib to process and visualize global COVID-19 statistics. Key insights include:
+
+Daily, monthly, and global case trends
+Analysis of case distribution by country/region
+Visualizations of cases, deaths, and recoveries over time
+Interactive visualizations for better insights into the pandemic’s progression
+The project helps in understanding the pandemic's spread, providing insights that can aid in public health decision-making.
